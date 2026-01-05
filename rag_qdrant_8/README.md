@@ -16,14 +16,6 @@ RAG Search Qdrant , Agent Skills
 https://github.com/kuc-arc-f/golang_3ex/tree/main/qdrant_6
 
 
-***
-* build
-
-```
-cd scripts
-npm i
-npm run build
-```
 
 ***
 ### blog
